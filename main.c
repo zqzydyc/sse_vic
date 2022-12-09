@@ -6,8 +6,11 @@
 
 #include <stdio.h>
 
-void main(void)
-{
-	printf("Hello World! %s\n", CONFIG_BOARD);
+int main(void) {
+  printf("Hello World! \n");
 
+  printf("Hello World! \n");
+  printf("Hello World! \n");
+
+  return 0;
 }
